@@ -1,6 +1,6 @@
 # Lab 25B — Report
 
-**Họ tên / nhóm:** Nguyễn Thị Chinh (MSV: 2A202602876)  **Commit:** a3f9ce7078c14d183ed1e95d311a2df59bc86855  **Điểm tự động (`make grade`):** 84.0 / 88
+**Họ tên / nhóm:** Nguyễn Thị Chinh (MSV: 2A202602876)  **Commit:** 21cd1657469962fb7b3eb96fce76aee70fd46fe1  **Điểm tự động (`make grade`):** 84.0 / 88
 
 > Mọi nhận định phải có số. Dán số từ `reports/gameday/*.json`, `reports/workflows.json`, `reports/slo.json`.
 
